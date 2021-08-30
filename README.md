@@ -11,6 +11,6 @@ Keys must be supplied with each request to the API. For example,
 https://s-platform.api.opendns.com/1.0/events?&customerKey=1111-2222-3333-4444  
 
 To retrieve your key:
-
-Navigate to Policies > Policy Components > Integrations.
+  
+Navigate to Policies > Policy Components > Integrations.  
 Expand the appropriate integration or click Add to generate a custom Integration.

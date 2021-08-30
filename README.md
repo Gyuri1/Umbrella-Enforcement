@@ -3,7 +3,7 @@
 This python script shows the existing entries in the Integration   
 Enforcement API configuration and adds one more, just for demonstration.   
 
-Please update the based on the enforcement API doc:
+Please update the based on the enforcement API doc:  
 https://docs.umbrella.com/enforcement-api-old/reference#introduction
 
 Customer authentication to the API is handled by a fixed UUID-v4 Customer key.   

@@ -1,7 +1,7 @@
-# Umbrella-Enforcement demo 
+# Umbrella Enforcement and Management demos 
  
-This python script shows the existing entries in the Integration   
-Enforcement API configuration and adds one more, just for demonstration.   
+This python script (umbrella-enforcement.py) shows the existing entries 
+in the Integration Enforcement API configuration and adds one more, just for demonstration.   
 
 Please update the based on the enforcement API doc:  
 https://docs.umbrella.com/enforcement-api-old/reference#introduction
@@ -14,3 +14,5 @@ To retrieve your key:
   
 Navigate to Policies > Policy Components > Integrations.  
 Expand the appropriate integration or click Add to generate a custom Integration.
+
+The second script () shows how to configure domains using Management API.
